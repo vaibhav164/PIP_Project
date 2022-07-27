@@ -8,7 +8,7 @@ export const ChartScreen = ({route, navigation}) => {
       <TouchableOpacity
         onPress={() => {
           navigation.goBack();
-          console.log('sdfsdfsd', value);
+          console.log('sdfsdd', value);
         }}>
         <View
           style={{
