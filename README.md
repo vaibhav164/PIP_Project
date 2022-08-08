@@ -6,8 +6,8 @@ This is a Sample Ecommerce Project with stripe and redux example:-
 ![Second Image](./src//assets/images/image2.png)
 ![Third Image](./src//assets/images/image3.png)
 ![Forth Image](./src//assets/images/image4.png)
-![Forth Image](./src//assets/images/image6.jpg)
 
 ### Payment Page:-
 
 ![Payment Page](./src//assets/images/image5.png)
+![Forth Image](./src//assets/images/image6.jpg)
